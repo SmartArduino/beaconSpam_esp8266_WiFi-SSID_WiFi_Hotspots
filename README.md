@@ -1,5 +1,5 @@
 # beaconSpam_esp8266_WiFi-SSID_WiFi_Hotspots
- &nbsp;&nbsp;&nbsp;&nbsp;Our WiFi hotspots advertisement machine can hold 32 wifi hotspots at a time, free DIY for things you want to promote. <br/>
+ Our WiFi hotspots advertisement machine can hold 32 wifi hotspots at a time, free DIY for things you want to promote. <br/>
  Comes with free OTG conversion head, you can edit the advertisement through the OTG head anywhere and anytime.
  <br/>Powered by USB, you can power it by power bank, laptop, socket and any device that can afford charging.
  <br/>No electricity inside, work with power bank plug in. 
