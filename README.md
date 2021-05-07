@@ -9,6 +9,10 @@
 
  ![Setting 1](https://github.com/SmartArduino/beaconSpam_esp8266_WiFi-SSID_WiFi_Hotspots/blob/main/1.jpg )
 
+ https://www.amazon.com/Hotspots-Advertisement-Billboard-Marketing-Promotion/dp/B09292P3T1
  ![Setting 2](https://github.com/SmartArduino/beaconSpam_esp8266_WiFi-SSID_WiFi_Hotspots/blob/main/2.jpg )
+ 
+  https://www.amazon.com/Hotspots-Advertisement-Billboard-Marketing-Promotion/dp/B09292P3T1
 
 ![Effect Mobile](https://github.com/SmartArduino/beaconSpam_esp8266_WiFi-SSID_WiFi_Hotspots/blob/main/3.jpg )
+ https://www.amazon.com/Hotspots-Advertisement-Billboard-Marketing-Promotion/dp/B09292P3T1
