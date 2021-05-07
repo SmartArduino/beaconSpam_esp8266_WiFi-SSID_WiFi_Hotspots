@@ -7,8 +7,8 @@
  <br/>No APP required. Just plug this to your phone and edit on the page freely, no APP required, easy and convenient to use.<br/> 
  https://www.amazon.com/Hotspots-Advertisement-Billboard-Marketing-Promotion/dp/B09292P3T1
 
- <img src= https://github.com/SmartArduino/beaconSpam_esp8266_WiFi-SSID_WiFi_Hotspots/blob/main/1.jpg width="800" height="600">
+ ![Setting 1](https://github.com/SmartArduino/beaconSpam_esp8266_WiFi-SSID_WiFi_Hotspots/blob/main/1.jpg )
 
- ![Setting 2](https://github.com/SmartArduino/beaconSpam_esp8266_WiFi-SSID_WiFi_Hotspots/blob/main/2.jpg = 800x600)
+ ![Setting 2](https://github.com/SmartArduino/beaconSpam_esp8266_WiFi-SSID_WiFi_Hotspots/blob/main/2.jpg )
 
-![Effect Mobile](https://github.com/SmartArduino/beaconSpam_esp8266_WiFi-SSID_WiFi_Hotspots/blob/main/3.jpg = 800x600)
+![Effect Mobile](https://github.com/SmartArduino/beaconSpam_esp8266_WiFi-SSID_WiFi_Hotspots/blob/main/3.jpg )
