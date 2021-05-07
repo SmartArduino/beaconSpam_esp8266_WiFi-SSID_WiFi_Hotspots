@@ -11,8 +11,9 @@
 
  https://www.amazon.com/Hotspots-Advertisement-Billboard-Marketing-Promotion/dp/B09292P3T1
  ![Setting 2](https://github.com/SmartArduino/beaconSpam_esp8266_WiFi-SSID_WiFi_Hotspots/blob/main/2.jpg )
- 
+ <br/>
   https://www.amazon.com/Hotspots-Advertisement-Billboard-Marketing-Promotion/dp/B09292P3T1
-
+<br/>
 ![Effect Mobile](https://github.com/SmartArduino/beaconSpam_esp8266_WiFi-SSID_WiFi_Hotspots/blob/main/3.jpg )
+<br/>
  https://www.amazon.com/Hotspots-Advertisement-Billboard-Marketing-Promotion/dp/B09292P3T1
